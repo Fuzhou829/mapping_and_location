@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/root/private/work/GomROS/branch-refactor/prebuilt/*",
+                "/root/private/work/GomROS/branch-refactor/prebuilt",
+                "/root/private/work/GomROS/branch-refactor/prebuilt/**",
+                "/root/private/work/GomROS/branch-refactor/3rdparty",
+                "/usr/local/include/pcl-1.9"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/c++",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

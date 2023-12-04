@@ -1,0 +1,6 @@
+#ifndef __MAL_VERSION_H__
+#define __MAL_VERSION_H__
+#include <string>
+std::string version = " r2212 | rjy | 2023-11-30 20:09:33 +0800 (Thu, 30 Nov 2023) | 1 line ";
+std::string compile_time = " Fri Dec  1 10:56:07 CST 2023 ";
+#endif
